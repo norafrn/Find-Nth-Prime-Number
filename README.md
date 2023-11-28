@@ -1,4 +1,4 @@
-# Fine Nth Prime Number
+# Find Nth Prime Number
 Java Program to find prime number at a given index.
 ### Project Description
 Program will take an integer n as input and will output the prime number at that index
